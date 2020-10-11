@@ -1,5 +1,6 @@
 <body>
     <h1>一个憨批的个人资料<h1>
+        <p>
     <ul>
       <li>姓名：李旭琪
       <li>性别：难  
@@ -13,7 +14,7 @@
           打乒乓球<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602404499215&di=d75da581395a8de01bfc6aaf9f59bc5c&imgtype=0&src=http%3A%2F%2Fbbs.168hs.com%2Fdata%2Fattachment%2Fforum%2F201807%2F26%2F171842fyslseylgbbyemf9.gif"/>
           听歌<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2791456004,3144288085&fm=11&gp=0.jpg"/>
           
-         
+     <h2>    
    <ol>  
      <li>》我的态度
      <li>   座右铭：I an a slow walker,but i never walk backwards
