@@ -11,6 +11,7 @@
       <li>他喜欢的：各种宅<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602398423795&di=93c437d942cd6f0d0f4c46e73475ff79&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn20111%2F580%2Fw690h690%2F20190120%2F08be-hrvcwnm0324865.jpg"/>
           
           打乒乓球，听歌
-      我的态度
-      座右铭：I an a slow walker,but i never walk backwards 
+      <h2>我的态度
+        <li>座右铭：I an a slow walker,but i never walk backwards
+        <li>pku梦想：成为一个专业领域的老研究
       
