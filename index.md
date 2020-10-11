@@ -3,6 +3,7 @@
     <ul>
       <li>姓名：李旭琪
       <li>性别：难
+      <li>我不造    
       <li>籍贯：宁夏
       <li>性格特点：积极
       <li>毕业中学：<a href="https://yun.nxeduyun.com/index.php?r=space/school/portal/index&sid=a8bc636b314a4d659ed2f182ab288537">中卫市第一中学</a>
