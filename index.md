@@ -4,6 +4,10 @@
     <meta charset="utf-8"/>
     <title>大哥私人网站</title>
     </head>
+  body
+{
+background-color:sky-blue
+}
   <body>
     <h1>一个憨批的个人资料<h1>
     <ul>
